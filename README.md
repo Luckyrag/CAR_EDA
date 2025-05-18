@@ -74,7 +74,7 @@ This project explores a dataset of **used car listings** from various Indian cit
 ## 📸 Demo Screenshot
 
 <p align="center">
-  <img src="4fdebb9c-9562-4198-9626-70c7a793b948.png" alt="Dashboard Screenshot" width="700">
+  <img src="Dashboard.png" alt="Dashboard Screenshot" width="700">
 </p>
 
 ---
