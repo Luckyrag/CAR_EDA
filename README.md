@@ -78,10 +78,3 @@ This project explores a dataset of **used car listings** from various Indian cit
 </p>
 
 ---
-
-## 🚀 Run Locally
-
-1. Clone the repo  
-```bash
-git clone https://github.com/your-username/car-eda-project.git
-cd car-eda-project
