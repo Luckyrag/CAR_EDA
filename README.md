@@ -78,3 +78,18 @@ This project explores a dataset of **used car listings** from various Indian cit
 </p>
 
 ---
+## 🧠 Future Enhancements [Expected before August 2025]
+Add price prediction using machine learning
+
+Add user filters and download options
+
+More advanced trend visualizations over time
+
+## 🙌 Acknowledgments
+This project was built as part of an exploratory data analysis and dashboard design practice using public car listing datasets.
+
+## 📧 Contact
+Author: [Lokesh Raghuwanshi]
+LinkedIn: www.linkedin.com/in/lokeshraghuwanshi74
+
+
