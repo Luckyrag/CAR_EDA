@@ -1,7 +1,7 @@
 # 🚗 Cars Exploratory Data Analysis (EDA) Project
 
 <p align="center">
-  <img src="4fdebb9c-9562-4198-9626-70c7a793b948.png" alt="Project Front Page" width="700">
+  <img src="front_page.png" alt="Project Front Page" width="700">
 </p>
 
 > **Understand the Used Car Market with Data-Driven Insights**
