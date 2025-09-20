@@ -86,14 +86,6 @@ CarVision is an AI-powered web application designed to help users predict the fa
 | DuckDuckGo Search | Car Images               |
 
 ---
-
-## 📸 Demo Screenshot
-
-<p align="center">
-  <img src="Dashboard.png" alt="Dashboard Screenshot" width="700">
-</p>
-
----
 ## 🚀 Enhancements After Analysis  
 ✅ Add price prediction using machine learning  
 ✅ Add user filters and download options 
