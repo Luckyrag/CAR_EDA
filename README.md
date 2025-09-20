@@ -1,4 +1,4 @@
-# 🚗 Cars Exploratory Data Analysis (EDA) Project
+# 🚗 CarVision – AI-Powered Used Car Price Prediction & Recommendation System  
 
 <p align="center">
   <img src="front_page.png" alt="Project Front Page" width="700">
@@ -10,7 +10,7 @@
 
 ## 📌 Project Overview
 
-This project explores a dataset of **used car listings** from various Indian cities using **Streamlit**, **Pandas**, **Matplotlib**, **Seaborn**, and **Folium**. It aims to help users gain insights into:
+CarVision is an AI-powered web application designed to help users predict the fair price of used cars and explore smart recommendations. The project combines Exploratory Data Analysis (EDA), interactive visualization, and a Machine Learning prediction engine, all integrated into a Streamlit dashboard.
 - Car prices by brand and location
 - Mileage, engine capacity, transmission types, and more
 - Patterns in car color, ownership, and usage
@@ -41,6 +41,18 @@ This project explores a dataset of **used car listings** from various Indian cit
 - Multivariate analysis (correlation heatmap, hue-based plotting)
 - Dynamic dropdown selections for flexible plotting
 
+### 🤖 5. Prediction Engine
+- Built a **regression-based ML model** to predict used car prices.  
+  - Input features: **Company, Model, Year, Fuel Type, Transmission, Owner Type, Engine (CC), Power (BHP), Kilometers Driven, Location, and Color**.  
+  - Model performance:  
+    - **R² Score**: ~0.89  
+    - **MAE**: ~0.45 Lakh  
+    - **RMSE**: ~0.62 Lakh  
+
+### 🎯 6. Smart Recommendation System
+  - Suggests up to **4 similar cars** when a prediction is made.  
+  - Recommendations displayed as **Flipkart-style cards** with preview images.  
+  - Users can explore each recommended car in **different colors and view angles (front, side, rear)** dynamically.  
 ---
 
 ## 🎨 UI and Enhancements
@@ -49,7 +61,8 @@ This project explores a dataset of **used car listings** from various Indian cit
 - 🎨 Car-themed styling and transitions
 - 🚀 Responsive layout and clean design
 - 🧭 Sidebar filters and dropdowns for interactivity
-
+- **Dynamic headings** like *Prediction Engine* and *Smart Recommendations*.
+- Car images rendered via **Imagin API** with customization options.  
 ---
 
 ## 📂 Dataset Columns (Cleaned)
@@ -68,6 +81,9 @@ This project explores a dataset of **used car listings** from various Indian cit
 | Streamlit     | Interactive dashboard            |
 | Seaborn/Matplotlib | Data visualization         |
 | Folium        | Interactive map rendering        |
+| Scikit-Learn  | Model Training & Evaluation  |
+| Joblib        | Model Serialization          |
+| DuckDuckGo Search | Car Images               |
 
 ---
 
@@ -78,15 +94,17 @@ This project explores a dataset of **used car listings** from various Indian cit
 </p>
 
 ---
-## 🧠 Future Enhancements [Expected before August 2025]
-Add price prediction using machine learning
+## 🚀 Enhancements After Analysis  
+✅ Add price prediction using machine learning  
+✅ Add user filters and download options 
 
-Add user filters and download options
+## 🌟 Future Improvements  
+- Add **deep learning model** for image-based price estimation.  
+- Include **real-time web scraping** for up-to-date car data.  
+- Integrate **blockchain-based ownership verification** for fraud prevention.  
 
-More advanced trend visualizations over time
-
-## 🙌 Acknowledgments
-This project was built as part of an exploratory data analysis and dashboard design practice using public car listing datasets.
+## 🎯 Objective  
+> **CarVision helps users make smarter decisions in the used car market by combining AI-powered price prediction, visual EDA, and personalized recommendations in an interactive dashboard.**
 
 ## 📧 Contact
 Author: [Lokesh Raghuwanshi]
